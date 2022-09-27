@@ -7,9 +7,9 @@ penggunaan: translate.py [-h] [-q | -v] kalimat
 Menerjemahkan kalimat dari ejaan modern ke ejaan lama
 
 positional arguments:
-kalimat        Kalimat yang ingin anda terjemahkan
+- kalimat: Kalimat yang ingin anda terjemahkan
 
 options:
--h, --help     show this help message and exit
--q, --quiet    Mencetak dengan ringkas
--v, --verbose  Mencetak dengan lengkap
+- -h, --help: show this help message and exit
+- -q, --quiet: Mencetak dengan ringkas
+- -v, --verbose: Mencetak dengan lengkap
